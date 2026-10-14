@@ -1,0 +1,16 @@
+# 『Pythonで解く 業務課題集』サンプルコード
+# 書籍の測定環境: Python 3.10。
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.6
+matplotlib>=3.8
+
+# ノートブック一括検証
+nbconvert>=7.17
+nbformat>=5.10
+ipykernel>=7.0
+
+optuna>=4.0
+lightgbm>=4.0
+xgboost>=2.0

@@ -1,0 +1,29 @@
+# Internal records and backups
+tmp/
+backup/
+backups/
+VALIDATION.md
+validation.log
+code_check_*.md
+fix_*.md
+
+# Local environment and notebook checkpoints
+.DS_Store
+.venv/
+venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated models, charts and logs
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.log
+outputs/
+catboost_info/
+*.db
+*.db-*
